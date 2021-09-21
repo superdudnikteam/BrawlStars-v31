@@ -10,7 +10,7 @@
   "BigBoxTokens": 99999,
   "Region": "RO",
   "ThemeID": 18,
-  "ContentCreatorCodes": ["bs v36"],
+  "ContentCreatorCodes": ["bs v31"],
   "BannedIPs": [],
   "Maintenance": false,
   "SecondsTillMaintenanceOver": 3600,
