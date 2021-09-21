@@ -80,7 +80,7 @@ class Writer:
         if data == 0:
             self.writeByte(0)
         elif data < 0:
-            self.writeVint((2147483648 * 2) + data)
+            self.writeVInt((2147483648 * 2) + data)
         else:
             data = (data << 1) ^ (data >> 31)
             while data:
