@@ -17,7 +17,7 @@ First you'll need to put your MongoDB connection string in `config.json`. If you
 In a terminal, type __`pip install -r requirements.txt`__ then run the server using __`python Main.py`__
 
 ### Configuring the client app
-To connect to your server, a **patched client** is required. Download this [base APK](https://mega.nz/file/KKxw2ZwR#ss4_VDlSynrV8FHMHjmpH5QdMdOiBoGEenXgp0QmqxY) and change the IP in `libmg.config.so`. 
+To connect to your server, a **patched client** is required. Download this [base APK](https://disk.yandex.ru/d/HvXQ6N4Yg0stlQ) and change the IP in `libmg.config.so`. 
 ### Battles
 We've enabled offline battles so you can directly press "PLAY" to start a match.
 ![ScreenShot](https://cdn.discordapp.com/attachments/874296198775853117/889797850710548540/Screenshot_20210921-115836_BS_v31.jpg) 
