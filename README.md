@@ -24,4 +24,4 @@ We've enabled offline battles so you can directly press "PLAY" to start a match.
 Unfortunately, the offline logic is mostly broken and some gamemodes might not work correctly or even crash.
 
 ### Got any question?
-Contact @ShockWave#5158 on Discord or open an issue.
+Contact @ShockWave#5158 on Discord or open an issue
